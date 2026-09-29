@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+feedback_log.csv
+eval_results.csv
+bank-full.csv
